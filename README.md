@@ -43,6 +43,7 @@ The dashboard includes:
 ## Skills Demonstrated
 • SQL data exploration
 
+https://public.tableau.com/views/mushroom_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 • Aggregation and grouping
 
 • Data extraction for visualization
