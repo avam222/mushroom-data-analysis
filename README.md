@@ -13,8 +13,6 @@ This project analyzes a mushroom classification dataset to identify features ass
 ## Project Goals
 • Explore the distribution of edible vs poisonous mushrooms
 
-• Identify features most associated with toxicity
-
 • Build a visual dashboard for insights
 
 ## Key Questions
@@ -22,14 +20,10 @@ This project analyzes a mushroom classification dataset to identify features ass
 
 • Which odors are most associated with toxicity?
 
-• What physical features appear most often in poisonous mushrooms?
-
 ## Key Findings
 • The dataset is nearly balanced between edible and poisonous mushrooms.
 
 • Certain odors strongly correlate with poisonous mushrooms.
-
-• Specific cap shapes and colors appear more frequently in toxic varieties.
 
 ## SQL Analysis
 The project uses SQL queries to:
@@ -45,8 +39,6 @@ The dashboard includes:
 • Edible vs poisonous distribution
 
 • Odor comparison by class
-
-• Most common features of poisonous mushrooms
 
 ## Skills Demonstrated
 • SQL data exploration
